@@ -53,7 +53,7 @@ body {
   flex-wrap: wrap;
   align-items: center;
   list-style-type: none;
-  border: 30px solid #333;
+  border: 20px solid #333;
   transition: all 0.5s ease;
   border-radius:20px;
 }
