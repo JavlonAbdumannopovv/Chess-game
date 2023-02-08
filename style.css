@@ -83,7 +83,6 @@ body {
   position: relative;
   width: 70px;
   height: 70px;
-  background-color: #b58863;
   background-image:url("./images/itemBg.jpg");
   background-position:center;
   background-size:cover;
@@ -95,7 +94,6 @@ body {
   position: relative;
   width: 70px;
   height: 70px;
-  background-color: #f0d9b5;
   background-image:url("./images/blue-white-crystal-textured-background_53876-85226.avif");
   background-position:center;
   background-size:cover;
